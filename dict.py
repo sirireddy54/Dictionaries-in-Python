@@ -13,6 +13,8 @@ dictionary = {
 
 print(dictionary)
 
+print(len(dictionary))
+
 print (dictionary["name"])
 #print(dictionary["gender"])       #error
 
